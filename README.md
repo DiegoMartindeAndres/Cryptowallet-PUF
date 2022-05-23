@@ -28,12 +28,12 @@ pip3 install pycryptodome
 ```
 Descargar repositorio mediante git:
 ```
-git clone https://github.com/migdlp/Cryptowallet-PUF.git 
+git clone https://github.com/DiegoMartindeAndres/Cryptowallet-PUF.git 
 cd Cryptowallet-PUF/
 ```
 También es posible descargar repositorio mediante wget:
 ```
-wget https://github.com/migdlp/Cryptowallet-PUF/archive/refs/heads/main.zip
+wget https://github.com/DiegoMartindeAndres/Cryptowallet-PUF/archive/refs/heads/main.zip
 unzip main.zip
 cd Cryptowallet-PUF-main
   ```
