@@ -87,10 +87,10 @@ Se puede ver en la siguiente figura:
 
 Nils Wisiol, Christoph Gräbnitz, Christopher Mühl, Benjamin Zengin, Tudor Soroceanu, Niklas Pirnay, Khalid T. Mursi, & Adomas Baliuka. pypuf: Cryptanalysis of Physically Unclonable Functions (Version 2, June 2021). Zenodo. https://doi.org/10.5281/zenodo.3901410
 
-GitHub:https://github.com/nils-wisiol/pypuf
+GitHub: https://github.com/nils-wisiol/pypuf
 
 - PyCryptodome:
 
-GitHub:https://github.com/Legrandin/pycryptodome
+GitHub: https://github.com/Legrandin/pycryptodome
 
 
